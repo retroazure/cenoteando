@@ -37,8 +37,8 @@
         </span>
 
         <span v-else>
-            <v-btn to="/repo" text class="mr-2">
-                <span class="mr-2">Repository</span>
+            <v-btn to="/map" text class="mr-2">
+                <span class="mr-2">Map</span>
             </v-btn>
 
             <v-btn to="/oai-pmh" text class="mr-2">
